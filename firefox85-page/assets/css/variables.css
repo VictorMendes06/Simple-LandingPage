@@ -1,0 +1,14 @@
+/* Variables */
+:root {
+  --primary-color: #0a1128;
+  --white-color: #ffff;
+  --gap-about: 2.5rem;
+  --gap: 1.8rem;
+  --light-gray-color: #eee;
+  --black-color: #000;
+}
+
+
+.section {
+  min-height: 100vh;
+}
